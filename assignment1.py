@@ -1,8 +1,5 @@
-import ssl
-from turtle import color
 import numpy as np
 import matplotlib.pyplot as plt
-import pandas as pd
 
 #input data
 x=np.array([10,9,2,15,10,16,11,16])
